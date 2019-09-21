@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0px;
+	padding:0px;
+}
+.head{
+	width: 100%;
+	height: 80px;
+	background: gold;
+}
+.logo{
+	width: 50%;
+	height: 80px;
+	padding: 0px;
+	background: #000000;
+	float: left
+}
+.logo1{
+	width: 230px;
+	height: 100px;
+	float: left;
+}
+.timkiem{
+	width: 400px;
+	height: 100px;
+	padding: 20px 0;
+	float: left
+}
+#c{
+	width: 300px;
+	height: 30px;
+	border-bottom-left-radius: 3px;
+}
+#d{
+	background: #0D5FF0;
+	color: aliceblue;
+}
+.icon1{
+	width: 40%;
+	height: 80px;
+	float:left
+}
+.icon1 a{
+	font-size:34px;
+	text-decoration: none;
+	padding:24px 20px;
+	
+	
+
+}
+.icon1 a:hover{
+	color:black;
+ background:#FBFBFB;
+}
+.icon2{
+	width: 10%;
+	height: 80px;
+	float: right
+}
+.thanh{
+	max-width: 100%;
+	height: 50px;
+	
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
+.thanh a{
+	background: #18A2F9;
+	border-radius: 10%;
+	color: aliceblue;
+	padding: 10px 10px 10px 10px;
+	margin-left: 10px;
+}
+.nav{
+	max-width: 100%;
+	height: 730px;
+	
+}
+.hinh1{
+	max-width: 23.3%;
+	height: 700px;
+	float: left;
+	border: #000000 1px solid;
+}
+.hinh1 img{
+	margin-left: 50px;
+}
+.hinh1 p img{
+	margin: 0px;
+	padding: 0;
+}
+.hinh1 {
+	padding: 10px 10px;
+	line-height: 30px;
+}
+.hinh1 button{
+	width: 100px;
+	height: 40px;
+	margin-left: 40px;
+	border: #F97F36 1px solid;
+}
+.hinh1 b button{
+	border: #2DBEFB 1px solid;
+}
+.hinh1 b button:hover{
+	background:#2DBEFB
+}
+.hinh1 button:hover{
+	background: #F97F36
+}
+
+#chua>form{ padding-top:0px; padding-top:10px; padding-left:100px; font:Arial, Helvetica, sans-serif}
+#chau>form>p{ color:#000;}
+#chua{ height:150px; width:100%; background:#000000; float: left;}
+#chua>img{ float:left}
+form{ float:left; padding:0px; padding-top:11px}
+#chua p{
+	color: aliceblue;line-height: 30px;
+}
+#chua a{
+	text-decoration: none;
+	font-size: 28px;
+	color: aqua;
+}
+#chua a:hover{
+	color: brown
+}
+.giua3{
+	width: 100%;
+	height:210px;
+}
+.d1{
+	width: 30%;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+}
+.d2{
+	width: 30%;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+}
+.d3{
+	width: 30%;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+}
+.cuoicung{
+	width: 100%;
+	height: 40px;
+	
+	float: left;
+	
+}
+.cuoicung p{
+	font-size: 12px;
+	 text-align: center;
+	
+	
+}
+.cuoicung b{
+	text-align: center
+}
+a{
+	text-decoration: none;
+}
+
+
+
+
+

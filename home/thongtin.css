@@ -1,0 +1,341 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0px;
+	padding:0px;
+}
+@font-face{
+	font-family:bac;
+	src: url('vintage_warehouse/CHOPS___.TTF');
+}
+.head{
+	width: 100%;
+	height: 80px;
+	background: gold;
+}
+.logo{
+	width: 50%;
+	height: 80px;
+	padding: 0px;
+	background: #000000;
+	float: left
+}
+.logo1{
+	width: 230px;
+	height: 100px;
+	float: left;
+}
+.timkiem{
+	width: 400px;
+	height: 100px;
+	padding: 20px 0;
+	float: left
+}
+#c{
+	width: 300px;
+	height: 30px;
+	border-bottom-left-radius: 3px;
+}
+#d{
+	background: #0D5FF0;
+	color: aliceblue;
+}
+.icon1{
+	width: 40%;
+	height: 80px;
+	float:left
+}
+.icon1 a{
+	font-size:34px;
+	text-decoration: none;
+	padding:24px 20px;
+	
+	
+
+}
+.icon1 a:hover{
+	color:black;
+ background:#FBFBFB;
+}
+.icon2{
+	width: 10%;
+	height: 80px;
+	float: right
+}
+.head1{
+	max-width: 100%;
+	height: 80px;
+}
+.thanh{
+	max-width: 100%;
+	height: 30px;
+	
+}
+.thanh a{
+	padding: 10px 10px;
+	font-size: 20px;
+	text-decoration: none;
+}
+.thanh1{
+	mamax-width: 90%;
+	height: 40px;
+	float: left;
+	
+	
+}
+.thanh1 h1{
+	margin-left: 10px;
+	font-family: sans-serif;
+	font:inherit;
+	font-size: 25px;
+}
+b{
+	font-family: sans-serif;
+	font-size: 25px;
+	font: inherit;
+}
+
+.thanh2{
+	max-width: 30%;
+	height: 40px;
+	float: right;
+	
+}
+.thanh2 i{
+	margin-right: 10px;
+}
+.anh{
+	width: 500px;
+	height: 500px;
+	float: left;
+	padding: 10px 10px;
+}
+.anh1{
+	width: 400px;
+	height: 500px;
+	padding: 10px 10px ;
+	float: left;
+	
+}
+.gia{
+	width: 100%;
+	height: 50px;
+	
+}
+.gia p{
+	color:red;
+	font-size: 34px;
+}
+.gia b{
+	color:black;
+	font-size: 24px;
+	border-bottom-left-radius: 50%;
+	
+}
+.anh2{
+	width: 100%;
+	height: 50px;
+	border-color: black;
+	background: #BBB9B9;
+	border-radius: 30%;
+	
+}
+.anh2 p {
+	color: chartreuse;
+	font-size: 26px;
+}
+.anh2 i{
+	padding: 5px 10px;
+}
+.anh3{
+	width: 100%;
+	height: 300px;
+	
+	padding-top: 10px;
+	border: #000000 1px solid;
+}
+.anh3 p{
+	padding: 10px 10px;
+	font: inherit;
+	font-size: 20px;
+}
+.anh3 b{
+	border-radius: 100%;
+	background: #16F404;
+}
+
+.ngoai{
+	padding-top: 10px;
+	width: 100%;
+	height: 40px;
+}
+.ngoai a{
+	font-size: 24px;
+	text-decoration: none
+}
+.ngoai1 {
+	width:100%;
+	height: 150px;
+	border: #000000 1px solid;
+	
+}
+.ngoai1 p{
+	padding: 15px 10px;
+}
+a{
+	text-decoration: none;
+}
+.ngoai2 {
+	width: 100%;
+	height: 160px;
+	border: #000000 1px solid;
+	padding-top: 10px;
+}
+.ngoai2 p{
+	padding: 10px 10px;
+}
+.ngoai2 b{
+	 border-radius: 100%;
+	background: #19F708;
+}
+.ngoai3{
+	width: 100%;
+	height: 100px;
+	border:red 1px dotted;
+	padding: 0px;
+	
+}
+.a{
+	float: left;
+	height: 100px;
+	width: 30%;
+}
+.a1{
+	width: 70%;
+	height: 100px;
+	float: left;
+}
+.a1 p{
+	padding: 10px 0px;
+}
+.a1 b{
+	font-size: 18px;
+	font: inherit;
+}
+.anh5{
+	width:100%;
+	height: 570px;
+	
+	float: left;
+	
+}
+.bac{
+	width:60%;
+	height: 550px;
+	float: left;
+	padding: 10px 10px;
+	
+}
+.bac img{
+	float: left;
+}
+.bac p{
+	float: left;
+	padding: 100px 10px;
+	
+	}
+.bac h3{
+	color: blue;
+	font-size: 30px;
+}
+.bac1{
+	width:36%;
+	height: 550px;
+	float: left;
+	padding: 10px 0px;
+		
+}
+.bac1 p{
+	padding: 13px 20px;
+}
+.bac1 h3{
+	
+}
+.anh6 {
+	width: 100%;
+	height: 100px;
+	padding-top: 10px;
+}
+.anh6 button{
+	font-size: 30px;
+	width: 100%;
+	padding-top: 10px;
+	background: #CB692E;
+	color: aliceblue;
+}
+.anh6 a{
+	color: aliceblue;	
+}
+.anh6 b{
+	font-size: 18px;
+	
+}
+#chua>form{ padding-top:0px; padding-top:10px; padding-left:100px; font:Arial, Helvetica, sans-serif}
+#chau>form>p{ color:#000;}
+#chua{ height:150px; width:100%; background:#000000; float: left;}
+#chua>img{ float:left}
+form{ float:left; padding:0px; padding-top:11px}
+#chua p{
+	color: aliceblue;line-height: 30px;
+}
+#chua a{
+	text-decoration: none;
+	font-size: 28px;
+	color: aqua;
+}
+#chua a:hover{
+	color: brown
+}
+.giua3{
+	width: 100%;
+	height:210px;
+}
+.d1{
+	width: 30%;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+}
+.d2{
+	width: 30%;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+}
+.d3{
+	width: 30%;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+}
+.cuoicung{
+	width: 100%;
+	height: 40px;
+	
+	float: left;
+	
+}
+.cuoicung p{
+	font-size: 12px;
+	 text-align: center;
+	
+	
+}
+.cuoicung b{
+	text-align: center
+}
+a{
+	text-decoration: none;
+}
+
